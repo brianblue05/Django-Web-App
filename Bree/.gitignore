@@ -6,6 +6,10 @@ __pycache__
 db.sqlite3
 media
 
+# Folders
+bin/
+lib/
+
 # Visual Studio Code # 
 .vscode/* 
 !.vscode/settings.json 
@@ -22,7 +26,8 @@ media
 
 # Python # 
 *.py[cod] 
-*$py.class 
+*$py.class
+pyvenv.cfg 
 
 # Distribution / packaging 
 .Python build/ 
