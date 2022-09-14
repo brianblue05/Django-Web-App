@@ -1,11 +1,14 @@
-                                      # Django-Web-App
+                             # Django-Web-App
 I created this project as a Demo for my internship. It is a basic web application developed using Django.<br >
 The app is still under development but I will keep on updating it. 
 
 
 ##  Installing
-open terminal and Clone this repo<br/>
+Open terminal and Clone this repo<br/>
      `https://github.com/brianblue05/Django-Web-App.git` <br/>
+Navigate into the dir with manage.py is `Bree/` dir
+Install the requirements
+     `pip install -r requirements.txt`
 Migrate the database using: <br/>
      `python manage.py makemigrations` <br/>
      `python manage.py migrate` <br/>
