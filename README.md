@@ -7,6 +7,7 @@ The app is still under development but I will keep on updating it.
 ### Open terminal and Clone this repo<br/>
     git clone https://github.com/brianblue05/Django-Web-App.git
 ### Navigate into the dir with manage.py  (`Bree` dir) <br><br/>
+    cd Django-Web-App/Bree
 ### Install the requirements<br/>
     pip install -r requirements.txt
 ### Migrate the database using: <br/>
