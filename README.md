@@ -19,4 +19,4 @@ The app is still under development but I will keep on updating it.
     python manage.py runserver
 ### Then go to http://127.0.0.1:8000 in your browser <br/>
 
-After exploring http://127.0.0.1:8000/admin, click register and register a user. You can then log in using the newly created credentials. <br/>
+### Click on Register and add a new user, then log in.
