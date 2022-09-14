@@ -5,7 +5,7 @@ The app is still under development but I will keep on updating it.
 
 ##  Installing
 ### Open terminal and Clone this repo<br/>
-    https://github.com/brianblue05/Django-Web-App.git
+    git clone https://github.com/brianblue05/Django-Web-App.git
 ### Navigate into the dir with manage.py  (`Bree` dir) <br><br/>
 ### Install the requirements<br/>
     pip install -r requirements.txt
