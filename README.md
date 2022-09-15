@@ -1,6 +1,7 @@
                              # Django-Web-App
 I created this project as a Demo for my internship. It is a basic web application developed using Django.<br >
-The app is still under development but I will keep on updating it. 
+The app is still under development but I will keep on updating it.<br> 
+It runs entirely on python, even the login and registration forms are built using python.
 
 
 ##  Installing
@@ -10,9 +11,9 @@ The app is still under development but I will keep on updating it.
     cd Django-Web-App/Bree
 ### Install the requirements<br/>
     pip install -r requirements.txt
-### Migrate the database using (Python3 if you are using version 3): <br/>
-    python manage.py makemigrations
-    python manage.py migrate
+### Migrate the database using (python or py may work instead of python3): <br/>
+    python3 manage.py makemigrations
+    python3 manage.py migrate
 ### Create a superuser (optional) to login into http://127.0.0.1:8000/admin <br/>
     python manage.py createsuperuser
 ### To run the program in local server use <br/>
