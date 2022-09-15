@@ -15,9 +15,9 @@ It runs entirely on python, even the login and registration forms are built usin
     python3 manage.py makemigrations
     python3 manage.py migrate
 ### Create a superuser (optional) to login into http://127.0.0.1:8000/admin <br/>
-    python manage.py createsuperuser
+    python3 manage.py createsuperuser
 ### To run the program in local server use <br/>
-    python manage.py runserver
+    python3 manage.py runserver
 ### Then go to http://127.0.0.1:8000 in your browser <br/>
 
 ### Click on Register and add a new user, then log in.
