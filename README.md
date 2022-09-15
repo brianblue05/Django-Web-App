@@ -9,7 +9,7 @@ It runs entirely on python, even the login and registration forms are built usin
     git clone https://github.com/brianblue05/Django-Web-App.git
 ### Navigate into the dir with manage.py  (`Bree` dir) <br><br/>
     cd Django-Web-App/Bree
-### Install the requirements. Ignore any arrors from this code<br/>
+### Install the requirements. <br/>
     pip install -r requirements.txt
 ### Migrate the database using (python or py may work instead of python3): <br/>
     python3 manage.py makemigrations
