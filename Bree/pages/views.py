@@ -7,9 +7,9 @@ def home_view(request, *args, **kwargs):
     print(request.user)
     return render(request,"home.html",{})
 
-def about_view(request,*args, **kwargs):
+def contact_view(request,*args, **kwargs):
     print(request.user)
-    return render(request,"about.html", {})
+    return render(request,"contact.html", {})
 
 def shop_view(request,*args, **kwargs):
     print(request.user)
